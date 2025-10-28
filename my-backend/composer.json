@@ -1,0 +1,10 @@
+{
+  "name": "reylangko/backend",
+  "description": "Simple PHP API for tugas app",
+  "require": {
+    "php": "^8.0"
+  },
+  "scripts": {
+    "start": "php -S 0.0.0.0:10000 -t ."
+  }
+}
